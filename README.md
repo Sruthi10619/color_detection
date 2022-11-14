@@ -1,2 +1,1 @@
-# color_detection
- python
+# Color-Detection
